@@ -600,7 +600,7 @@ var cnv,
 
   function preload() {
     soundFormats( 'mp3', 'ogg' );
-    mySound = loadSound( 'assets/rising' );
+    mySound = loadSound( 'assets/rising-sun' );
   }
   
 function setup() {
